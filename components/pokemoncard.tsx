@@ -2,7 +2,7 @@ import Button from '@mui/material/Button';
 import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { Member, Pokemon } from '../lib/pokemon';
+import { Member } from '../lib/pokemon';
 
 export interface PokemonCardProps {
   data: Member;

@@ -19,7 +19,8 @@ import LinkIcon from '@mui/icons-material/Link'
 
 import { Carousel } from '../components/carousel';
 import { PokemonCard } from '../components/pokemoncard';
-import { getPokemon, Member, Pokemon, shuffle } from '../lib/pokemon';
+import { getPokemon, Member, Pokemon } from '../lib/pokemon';
+import { shuffle } from '../lib/util';
 
 //import styles from '../styles/Home.module.css'
 
